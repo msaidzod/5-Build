@@ -22,9 +22,7 @@ for larger screens.
 - collaborations.html — Collaboration opportunities and project planning.
 
 ## Published Website
-
-Publishing is in progress. The verified GitHub Pages URL will
-be added here before submission.
+https://msaidzod.github.io/5-Build/
 
 ## AI Use Statement
 
